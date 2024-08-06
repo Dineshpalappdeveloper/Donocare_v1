@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="shortcut icon" href={logo} />
+        {/* <link rel="shortcut icon" href={logo} /> */}
       </head>
       <body className="{inter.className} bg-lB font-poppins scroll-smooth">
         <div>

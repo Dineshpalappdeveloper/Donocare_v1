@@ -13,7 +13,7 @@ import op from '../utils/op';
 
 export default function Home() {
   const letsTalkRef = useRef(null);
-  
+
   const scrollTo = () => {
     letsTalkRef?.current?.scrollIntoView({ behavior: 'smooth' });
   };
@@ -35,7 +35,7 @@ export default function Home() {
         <OurServices />
         <BridgingTech />
         <HelpClients />
-        <LetsTalk ref={letsTalkRef} />
+        <LetsTalk letsTalkRef={letsTalkRef} />
         <div className="mt-6">
           <BottomFooter />
         </div>
