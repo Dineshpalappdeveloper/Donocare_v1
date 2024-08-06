@@ -196,7 +196,7 @@ const Service3 = () => {
           >
             <div className="flex flex-col justify-center items-center list-none">
               <p className="text-sm text-gray-300 ml-5 mr-5 pt-20 ">
-                Fin infolib has established partnership with clients to
+                Donocare has established partnership with clients to
                 facilitate the smooth transition of critical business processes
                 to our state-of-the-art.
               </p>

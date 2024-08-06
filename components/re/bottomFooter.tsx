@@ -6,7 +6,7 @@ export default function BottomFooter() {
         <>
             <div className="w-full flex flex-col bg-sH text-white justify-center 
             items-center p-4 text-xs">
-                <h2 className='text-3xl text-pH font-bold '>FIN INFOLIB</h2>
+                <h2 className='text-3xl text-pH font-bold '>Donocare</h2>
                 <div className=' w-full p-4 flex justify-center items-center pt-6 pb-6 md:flex-col'>
                     <div className='flex text-[14px] text-gray-400 flex-col  w-full gap-y-3 list-none md:flex md:flex-row
                     md:gap-x-10 md:pl-14 md:pr-10 justify-center items-center

@@ -16,7 +16,7 @@ const TermsConditions: () => void = () => {
                         Terms & Conditions</h2>
                     <div className="fle flex-col space-y-6 pt-6">
                         <p className=" text-sm lg:text-lg lg:pt-8">
-                            At FIN Infolib we provide a highly productive environment.
+                            At Donocare we provide a highly productive environment.
                             A place where the growth is conducive and is simply the result of the freedom
                             provided with ideas and application. The high level of transparency and employee
                             centric policies complemented by an Industry standard remuneration package makes us one of
@@ -66,10 +66,10 @@ const TermsConditions: () => void = () => {
                         <div>
                             <h3 className="font-bold text-md text-sH lg:text-xl">HOSTING PACKAGE : </h3>
                             <p className="pt-2 text-sm lg:text-lg">
-                                FIN infolib works with the third party hosting providers in order to provide hosting packages
+                                Donocare works with the third party hosting providers in order to provide hosting packages
                                 to the clients. Security, Data recovery, Emailing policy, activation and other policies related
                                 to hosting entirely depends upon the third party service provider.
-                                Fin infolib is not responsible for any issues with respect to hosting.
+                                Donocare is not responsible for any issues with respect to hosting.
 
                             </p>
                         </div>

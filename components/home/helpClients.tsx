@@ -39,7 +39,7 @@ const HelpClients = () => {
                   </label>
                   <div className=" flex flex-col space-y-8 ml-10 lg:ml-48 md:ml-28 md:mr-28 lg:mr-44 mr-4 mt-8 text-gray-300">
                     <p className="text-md md:text-xl lg:text-xs  xl:text-lg">
-                      At Fin infolib , we are committed to delivering
+                      At Donocare , we are committed to delivering
                       exceptional customer service and producing high-quality
                       work. Our team is dedicated to providing tailored
                       solutions that meet your specific requirements and

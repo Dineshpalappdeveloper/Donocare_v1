@@ -18,7 +18,7 @@ const Accessibility:()=>void = ()=>{
                     </div>
                     <h2 className="text-pH lg:pt-10 text-xl font-bold pt-4 lg:text-4xl">Accessibility </h2>
                     <p className="text-sm lg:text-lg">
-                    Fin InfoLIB Website provides its users with disabilities who find difficult 
+                    Donocare Website provides its users with disabilities who find difficult 
                     or even impossible to access the information that is available to all our 
                     other customers.
                      We have adopted and have used the techniques to make the website simpler. 

@@ -18,7 +18,7 @@ const PrivacyPolicy: () => void = () => {
                     </div>
                     <h2 className="font-bold text-xl text-pH lg:text-4xl ">Privacy Policy</h2>
                     <p className="text-sm pt-2 lg:text-lg lg:pt-8 ">
-                        Fin Infolib is deeply committed to all the browsers visiting our website.
+                        Donocare is deeply committed to all the browsers visiting our website.
                         The sole purpose of this website is to help you get the best solution to your
                         business problems with maximum ease. In general we do not ask for any personal information
                         from any visitors; you can visit our site with complete anonymity. However, we do ask
@@ -29,7 +29,7 @@ const PrivacyPolicy: () => void = () => {
                         <p className="text-sm pt-2 lg:text-lg lg:pt-8">
                             We only gather some minor data while you surf our site. Firstly,
                             we collect your IP address through our Internet access logs. When you
-                            access Fininfolib, your Internet address is automatically collected
+                            access Donocare, your Internet address is automatically collected
                             and recorded in our Internet access logs. We use this IP address to enable us
                             to diagnose problems with our web server, to administer our website, and to refine our
                             site based on the pages visited and features and contents found interesting by visitors.
@@ -53,16 +53,16 @@ const PrivacyPolicy: () => void = () => {
                     <div className="flex flex-col sapce-y-6 mt-8">
                         <h3 className="font-bold text-md text-sH lg:text-2xl">Information we ask fot</h3>
                         <p className="text-sm pt-2 lg:text-lg lg:pt-8 ">
-                            Simple browsing through Fininfolib does not
+                            Simple browsing through Donocare does not
                             require you to submit any personal data. The only point at which we ask for
                             personal data is for voluntary registration, Online Quote or subscription for
                             white papers, article archives, or our newsletter. The personal data collected will
-                            not be sold or provided to any outside entities and will be used solely by Fin Infolib
+                            not be sold or provided to any outside entities and will be used solely by Donocare
                             for a one-on-one contact with registrants. Any information that we have collected or
                             stored about you may be transferred to a future purchaser of our company and/or its assets.
                             The data collected is stored in a secure server located at our data centre with our ISP,
                             which will take periodic backups of it but will not give
-                            or sell them to anyone outside of Fin Infolib.
+                            or sell them to anyone outside of Donocare.
 
                         </p>
                         <p className="text-sm pt-2 lg:text-lg lg:pt-8 ">

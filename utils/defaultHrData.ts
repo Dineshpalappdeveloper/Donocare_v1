@@ -79,7 +79,7 @@
     //       attendance:"Late",
     //       gender:"male",
     //       image:
-    //         "https://raw.githubusercontent.com/afriddev/fininfolib/main/public/my.jpeg",
+    //         "https://raw.githubusercontent.com/afriddev/Donocare/main/public/my.jpeg",
     //       role: "BackEnd Developer",
     //       status: "Working",
     //       currentLeaveDays:0,
@@ -93,7 +93,7 @@
     //       attendance:"Absent",
     //       gender:"female",
     //       image:
-    //         "https://raw.githubusercontent.com/afriddev/fininfolib/main/public/ayesha.jpeg",
+    //         "https://raw.githubusercontent.com/afriddev/Donocare/main/public/ayesha.jpeg",
     //       role: "UI&UX Designer",
     //       status: "On Leave",
 
@@ -107,7 +107,7 @@
     //       attendance:"Present",
     //       gender:"male",
     //       image:
-    //         "https://raw.githubusercontent.com/afriddev/fininfolib/main/public/employee2.jpg",
+    //         "https://raw.githubusercontent.com/afriddev/Donocare/main/public/employee2.jpg",
     //       role: "App Developer",
     //       status: "Working",
 
@@ -120,7 +120,7 @@
     //       attendance:"Present",
     //       gender:"female",
     //       image:
-    //         "https://raw.githubusercontent.com/afriddev/fininfolib/main/public/employee3.jpg",
+    //         "https://raw.githubusercontent.com/afriddev/Donocare/main/public/employee3.jpg",
     //       role: "NodeJs Developer",
     //       status: "No Work",
 
@@ -133,7 +133,7 @@
     //       attendance:"Present",
     //       gender:"female",
     //       image:
-    //         "https://raw.githubusercontent.com/afriddev/fininfolib/main/public/employee4.jpg",
+    //         "https://raw.githubusercontent.com/afriddev/Donocare/main/public/employee4.jpg",
     //       role: "Angular Developer",
     //       status: "Working",
 
@@ -147,7 +147,7 @@
     //       attendance:"Present",
     //       gender:"male",
     //       image:
-    //         "https://raw.githubusercontent.com/afriddev/fininfolib/main/public/employee5.jpg",
+    //         "https://raw.githubusercontent.com/afriddev/Donocare/main/public/employee5.jpg",
     //       role: "App Developer",
     //       status: "No Work",
 
@@ -160,7 +160,7 @@
     //       attendance:"Present",
     //       gender:"male",
     //       image:
-    //         "https://raw.githubusercontent.com/afriddev/fininfolib/main/public/employee6.jpeg",
+    //         "https://raw.githubusercontent.com/afriddev/Donocare/main/public/employee6.jpeg",
     //       role: "React Developer",
     //       status: "Working",
 

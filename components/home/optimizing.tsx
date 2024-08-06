@@ -51,7 +51,7 @@ function Text1() {
     
     
     className="md:text-xs text-sH  p-4 font-light text-center lg:text-gray-800 lg:text-xl lg:text-left ">
-      Fininfolib is a renowned offshore development services provided commited
+      Donocare is a renowned offshore development services provided commited
       to helping organizations accomplish their objectives by granting them
       access to skilled and cost-effective resources that can improve their
       efficiency.

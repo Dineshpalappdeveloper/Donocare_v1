@@ -14,7 +14,7 @@ const CustomerSupport: () => void = () => {
                     <h1 className="text-white font-bold text-xl text-center lg:text-5xl lg:text-center">Tele services Fully Managed for
                         Sales / Customer / Technical support and Operations Teams.</h1>
                     <p className="text-sm text-gray-200 p-4 lg:text-lg lg:text-center">
-                        Fininfolib has established partnerships with clients to
+                        Donocare has established partnerships with clients to
                         facilitate the smooth transition of critical business processes
                         to our state-of-the-art BPO service delivery center. Our track
                         record speaks for itself, as we have consistently provided
@@ -33,13 +33,13 @@ const CustomerSupport: () => void = () => {
                         </div>
                         <div className="lg:p-10 xl:p-20 md:p-10">
                             <p className="pt-4 text-md text-gray-700 md:text-xs lg:text-md xl:text-lg " >
-                                Fininfolib has established partnerships with clients to facilitate
+                                Donocare has established partnerships with clients to facilitate
                                 the smooth transition of critical business processes to our state-of-the-art BPO
                                 service delivery center. Our track record speaks for itself, as we have
                                 consistently
                                 provided high-value outsourcing services to various industries<br />
 
-                                Fininfolib has established strategic alliances with clients to ensure a
+                                Donocare has established strategic alliances with clients to ensure a
                                 smooth transition of critical business processes to our cutting-edge BPO service delivery
                                 center.Our track record speaks for itself, as we have provided high-value outsourcing services
                                 to a variety of industries on a consistent basis.
@@ -54,14 +54,14 @@ const CustomerSupport: () => void = () => {
                     <div className="lg:grid lg:grid-cols-2 md:grid md:grid-cols-2">
                         <div className=" lg:p-10 xl:p-20">
                             <p className="pt-4 text-md text-gray-800 md:text-xs lg:text-md ">
-                                At Fininfolib, we offer an extensive range of business process services
+                                At Donocare, we offer an extensive range of business process services
                                 to industry leaders in multiple countries, including India, UK, USA, Australia, Middle East,
                                 and Southeast Asia. Our primary objective is to provide end-user customer satisfaction while
                                 ensuring optimal ROI for our
                                 clients in both front and back-office outsourcing requirements.
                             </p>
                             <p className="pt-4 tetx-md text-gray-800 md:text-xs lg:text-md ">
-                                At Fininfolib, we provide customized BPO services that cater to every business requirement.
+                                At Donocare, we provide customized BPO services that cater to every business requirement.
                                 Our track record speaks for itself, as we have consistently delivered exceptional BPO services to
                                 various industries. Our main focus is to provide a delightful customer experience while ensuring optimal
                                 ROI for our clients. With over 15 years of experience, our support team members offer high-quality
@@ -87,7 +87,7 @@ const CustomerSupport: () => void = () => {
                         <img className="w-20 h-24 mt-4" src="chatsupport.png" />
                         <h2 className="font-bold text-primaryGreen text-xl ">Live Chat Support Services</h2>
                         <p className="text-sm tex-gray-600 font-light pb-4">
-                            Fininfolib's live chat support services offer a strategic and
+                            Donocare's live chat support services offer a strategic and
                             cost-effective solution to provide 24/7 live chat support to our clients.
                             Our expert professionals take the time to understand your requirements and
                             provide convincing answers to resolve customer queries, ultimately persuading
@@ -100,7 +100,7 @@ const CustomerSupport: () => void = () => {
                         <img className="w-20 h-24 mt-4" src="customer.png" />
                         <h2 className="font-bold text-primaryGreen text-xl ">Customer Support Services</h2>
                         <p className="text-sm tex-gray-600 font-light pb-4">
-                            At Fininfolib, our certified and experienced team provides
+                            At Donocare, our certified and experienced team provides
                             round-the-clock customer support that effectively boosts your sales,
                             allowing you to outsource customer services and focus on growing your business.
                             Our customer support team provides assistance across multiple channels, enhances
@@ -114,7 +114,7 @@ const CustomerSupport: () => void = () => {
                         <img className="w-20 h-24 mt-4" src="call-center.png" />
                         <h2 className="font-bold text-primaryGreen text-xl ">Product Support Services</h2>
                         <p className="text-sm tex-gray-600 font-light pb-4">
-                            At Fininfolib, our customer service outsourcing company provides
+                            At Donocare, our customer service outsourcing company provides
                             a broad range of product support services focused on delivering excellent
                             customer satisfaction. Our expert team fulfills the specific needs of
                             businesses with our customized product support services and system-level
@@ -130,7 +130,7 @@ const CustomerSupport: () => void = () => {
                         <img className="w-20 h-24 mt-4" src="technical.png" />
                         <h2 className="font-bold text-primaryGreen text-xl ">Technical Support Services</h2>
                         <p className="text-sm tex-gray-600 font-light pb-4">
-                            At Fininfocom, we help you build long-lasting customer
+                            At Donocare, we help you build long-lasting customer
                             relationships with our post-purchase technical support
                             services. Our technical experts handle a wide range of
                             issues, from tier one i.e. solving simple queries to
@@ -149,7 +149,7 @@ const CustomerSupport: () => void = () => {
                         <img className="w-20 h-24 mt-4" src="order-processing.png" />
                         <h2 className="font-bold text-primaryGreen text-xl ">Order Proccessing Services</h2>
                         <p className="text-sm tex-gray-600 font-light pb-4">
-                            At Fininfocom, we offer a complete range of order processing services,
+                            At Donocare, we offer a complete range of order processing services,
                             which includes management of order taking, upselling and cross-selling,
                             and inbound sales. Our operators provide customized responses to your customers,
                             ensuring that their orders are processed efficiently and accurately. We understand

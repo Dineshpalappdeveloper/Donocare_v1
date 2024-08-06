@@ -21,17 +21,17 @@ const Letter = () => {
                         <h2 className="pl-4 pr-4 pt-8 text-xl font-bold text-pH text-center pb-4 lg:text-4xl lg:text-center ">
                             We are passionate about serving our customers and leading-edge</h2>
                         <p  className="pl-5 pt-2  text-gray-700 text-center pr-5 text-sm lg:text-lg">Through years of hard work, we have earned a reputation for top-tier services.
-                            At FinInfolib, we implement our strategy proactively. Our expert team makes it
+                            At Donocare, we implement our strategy proactively. Our expert team makes it
                             their mission to maintain your business, allowing you to focus on your core
                             busines
-                            As a comprehensive service provider, FinInfolib can handle all the details for
+                            As a comprehensive service provider, Donocare can handle all the details for
                             you.
                         </p>
                         <p  className="pl-5 pt-6 pb-6 text-gray-700 text-center pr-5 text-sm lg:text-lg lg:pb-12">
-                            FinInfolib has been helping its customers achieve a promising future by collaborating with them to succeed.
+                            Donocare has been helping its customers achieve a promising future by collaborating with them to succeed.
                             We have achieved an award-winning reputation with cutting-edge technologies and industry knowledge
                             across all business sectors, establishing strong relationships with our customers. Being the best means
-                            delivering products that customers can trust for unparalleled performance. FinInfolib is committed to
+                            delivering products that customers can trust for unparalleled performance. Donocare is committed to
                             being the market leader you can rely on,
                             determined to blend your business with technology to accelerate progress.</p>
 

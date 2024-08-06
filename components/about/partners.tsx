@@ -5,7 +5,7 @@ import { useRef } from "react";
 
 const Partners = () => {
    
-
+``
     return (
         <>
             <section>
@@ -20,7 +20,7 @@ const Partners = () => {
                         <div className="flex flex-col p-4 pt-8 space-y-4 lg:justify-center lg:items-center lg:p-16">
                             <h3 className="font-bold text-xl text-pH lg:text-4xl  "
                                  >Partner with us for customized solutions</h3>
-                            <p  className="pb-2 text-light text-gray-700 lg:text-xl ">At FIN Infolib, we are committed to delivering exceptional customer service
+                            <p  className="pb-2 text-light text-gray-700 lg:text-xl ">At Donocare, we are committed to delivering exceptional customer service
                                 and producing high-quality work. Our team is dedicated to providing tailored
                                 solutions that meet your specific requirements
                                 and preferences. We work closely with our clients to ensure that their projects
