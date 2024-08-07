@@ -6,7 +6,7 @@ export default function BottomFooter() {
   return (
     <div className="w-full flex flex-col bg-sH text-white justify-center items-center p-4 text-xs">
       <div className="flex flex-col items-center text-center">
-        <h3 className='text-3xl text-pH font-bold'>DonoCare Consultancy Services</h3>
+        <h3 className='text-3xl text-pH font-bold'>DonoCare Technology </h3>
         <h3 className="text-xl mt-2">We Are Reimagining The Relationship Between People & Technology</h3>
       </div>
 

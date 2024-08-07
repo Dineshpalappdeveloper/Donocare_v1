@@ -7,7 +7,7 @@ import LetsTalk from "@/components/re/letsTalk";
 import op from "@/utils/op";
 import { motion } from "framer-motion";
 import { useRef } from "react";
-
+import Teams from "../../components/teams/Teams"
 const About = () => {
     let letsTalkRef = useRef()
 
@@ -35,6 +35,10 @@ const About = () => {
 
 
 
+                </div>
+                
+                <div className=" flex justify-center items-center max-w-screen bg-blue-300 p-5 box-border">
+<Teams/>
                 </div>
                 <div className="mt-8">
                     <LetsTalk letsTalkRef={letsTalkRef} />

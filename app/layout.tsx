@@ -6,8 +6,8 @@ import { motion } from "framer-motion";
 const inter = Inter({ subsets: ["latin"] });
 import logo from "../public/logo.jpg";
 export const metadata: Metadata = {
-  title: "DonoCare",
-  description: "DonoCare Consultancy Services",
+  title: "Donocare Technology",
+  description: "DonoCare Technology",
 };
 
 export default function RootLayout({
@@ -23,6 +23,7 @@ export default function RootLayout({
       <body className="{inter.className} bg-lB font-poppins scroll-smooth">
         <div>
           <NavBar />
+          
         </div>
         {children}
       </body>

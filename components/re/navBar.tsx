@@ -15,7 +15,7 @@ export default function NavBar() {
       <div className="  bg-white">
         <nav className="flex justify-between  items-center pl-4 ">
           <div>
-            <label className="text-primaryGreen font-bold   text-xl   pl-4 flex items-center ">
+            <label className="text-primaryGreen font-bold   text-xl   pl-4 flex items-center cursor-pointer ">
               <Image src={logo} height={80} width={100} alt="logo"></Image>
             </label>
           </div>
@@ -112,7 +112,7 @@ function LapView({ setopen }) {
 function MobileNav({ setopen }) {
   return (
     <>
-      <div className="absolute flex flex-col  z-50 w-fit h-fit py-2 bg-white top-[10vh] right-0  p-4">
+      <div className="absolute flex flex-col  z-50 w-fit h-fit py-2 bg-white top-[10vh] right-0  p-4 min-w-[50vw]">
         <div className="flex flex-col h-fit justify-between ">
           <li className=" list-none flex flex-col space-y-4 pt-4  justify-end items-center text-center    ">
             <Link onClick={setopen} className=" " href={"/"}>
